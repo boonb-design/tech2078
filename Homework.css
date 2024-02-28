@@ -1,0 +1,222 @@
+.body{
+    font-size: 24px;  
+}
+
+.border {
+border: 1px solid salmon ;
+}
+
+#top-bar{
+    position: relative;
+    height: 17px; 
+}
+ 
+#top-bar #LOGO{
+    position:absolute;
+    left: 5%;
+    top:  0;
+    background:pink;
+} 
+  
+#top-bar #Sign-in{
+    position:absolute;
+    right: 5%;
+    top: 0; 
+    background:lightblue;
+}
+
+#top-bar #Products{
+    position:absolute;
+    left: 25%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Brands{
+    position:absolute;
+    left: 30%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Livingroom{
+    position:absolute;
+    left: 35%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Diningroom{
+    position:absolute;
+    left: 42%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Bedroom{
+    position:absolute;
+    left: 49%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Workspace{
+    position:absolute;
+    left: 54%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Bathroom{
+    position:absolute;
+    left: 60%;
+    top: 0; 
+    background:lightgreen;
+}
+
+#top-bar #Outdoor{
+    position:absolute;
+    left: 65%;
+    top: 0; 
+    background:lightgreen;
+}
+
+
+
+#mid-bar #NEWA{
+    position:absolute;
+    left: 45%;
+    top: 100px; 
+    background:lightgreen;
+    text-align: center;
+}
+
+#picture{
+    position:absolute;
+    top: 150px;
+    left: 5%;
+    width: 290px;
+    height: 313px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Proddes1{
+    position:absolute;
+    top: 463px;
+    left: 5%;
+    width: 290px;
+    height: 75px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Price1{
+    position:absolute;
+    top: 538px;
+    left: 5%;
+    width: 290px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#picture2{
+    position:absolute;
+    top: 150px;
+    left: 27%;
+    width: 290px;
+    height: 313px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Proddes2{
+    position:absolute;
+    top: 463px;
+    left: 27%;
+    width: 290px;
+    height: 75px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Price2{
+    position:absolute;
+    top: 538px;
+    left: 27%;
+    width: 290px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#picture3{
+    position:absolute;
+    top: 150px;
+    left: 51%;
+    width: 290px;
+    height: 313px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Proddes3{
+    position:absolute;
+    top: 463px;
+    left: 51%;
+    width: 290px;
+    height: 75px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Price3{
+    position:absolute;
+    top: 538px;
+    left: 51%;
+    width: 290px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#picture4{
+    position:absolute;
+    top: 150px;
+    left: 75%;
+    width: 290px;
+    height: 313px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Proddes4{
+    position:absolute;
+    top: 463px;
+    left: 75%;
+    width: 290px;
+    height: 75px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Price4{
+    position:absolute;
+    top: 538px;
+    left: 75%;
+    width: 290px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#Explore{
+    position:absolute;
+    top: 610px;
+    left: 39%;
+    width: 290px;
+    height: 25px;
+    font-size: 18px;
+    text-align: center;
+}
